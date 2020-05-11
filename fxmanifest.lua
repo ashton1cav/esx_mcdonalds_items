@@ -2,23 +2,22 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX Basic Needs'
+description 'ESX McDonalds Items'
 
-version '1.0.1'
+version '1.0'
 
 server_scripts {
 	'@es_extended/locale.lua',
 	'locales/en.lua',
 	'config.lua',
-	'server/main.lua'
+	'server/main.lua',
 }
 
 client_scripts {
 	'@es_extended/locale.lua',
 	'locales/en.lua',
-	'config.lua'
+	'config.lua',
 }
-
 dependencies {
 	'es_extended',
 	'esx_status',
