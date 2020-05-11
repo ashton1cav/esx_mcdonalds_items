@@ -1,0 +1,23 @@
+Locales['en'] = {
+  ['used_mcdsbigbreakfast'] = 'you have used ~y~1x~s~ ~b~Big Breakfast~s~',
+  ['used_mcdshotcakes'] = 'you have used ~y~1x~s~ ~b~Hotcakes~s~',
+  ['used_mcdsfries'] = 'you have used ~y~1x~s~ ~b~Frie~s~',
+  ['used_sprunk'] = 'you have used ~y~1x~s~ ~b~sprunk~s~',
+  ['used_p&qs'] = 'you have used ~y~1x~s~ ~b~p&qs~s~',
+  ['used_phatchips'] = 'you have used ~y~1x~s~ ~b~phatchips~s~',
+  ['used_hamburger'] = 'you have used ~y~1x~s~ ~b~hamburger~s~',
+  ['used_cupcake'] = 'you have used ~y~1x~s~ ~b~cupcake~s~',
+  ['used_chips'] = 'you have used ~y~1x~s~ ~b~chips~s~',
+  ['used_pistachio'] = 'you have used ~y~1x~s~ ~b~pistachio~s~',
+  ['used_chocolate'] = 'you have used ~y~1x~s~ ~b~chocolate~s~',
+  ['used_cashew'] = 'you have used ~y~1x~s~ ~b~cashew~s~',
+  ['used_cocacola'] = 'you have used ~y~1x~s~ ~b~cocacola~s~',
+  ['used_drpepper'] = 'you have used ~y~1x~s~ ~b~drpepper~s~',
+  ['used_energy'] = 'you have used ~y~1x~s~ ~b~energy~s~',
+  ['used_lemonade'] = 'you have used ~y~1x~s~ ~b~lemonade~s~',
+  ['used_icetea'] = 'you have used ~y~1x~s~ ~b~icetea~s~',  
+  ['used_powerade'] = 'you have used ~y~1x~s~ ~b~powerade~s~',  
+  ['used_sportlunch'] = 'you have used ~y~1x~s~ ~b~Sport Lunch~s~',  
+  ['used_protein_shake'] = 'you have used ~y~1x~s~ ~b~Protein Shake~s~',  
+  
+}
